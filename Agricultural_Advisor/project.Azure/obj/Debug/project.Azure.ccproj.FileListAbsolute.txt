@@ -1,0 +1,8 @@
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\bin\Debug\ServiceDefinition.csdef
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\obj\Debug\project\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\obj\Debug\project\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\obj\Debug\project\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\obj\Debug\project\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\obj\Debug\project\bin\project.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project.Azure\obj\Debug\project\bin\project.pdb

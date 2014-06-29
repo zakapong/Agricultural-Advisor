@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{91D4670B-76F3-48E4-8329-849B686045EE}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>project</RootNamespace>
+    <AssemblyName>project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.WindowsAzure.Configuration, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAzure.ConfigurationManager.1.8.0.0\lib\net35-full\Microsoft.WindowsAzure.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.Diagnostics, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.ServiceRuntime, Version=1.8.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAzure.StorageClient, Version=1.7.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WindowsAzure.Storage.1.7.0.0\lib\net35-full\Microsoft.WindowsAzure.StorageClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Services.Client" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin\Admin.aspx" />
+    <Content Include="Admin\TextChange.aspx" />
+    <Content Include="App_Data\ag.mdf" />
+    <Content Include="App_Data\ag_log.ldf">
+      <DependentUpon>ag.mdf</DependentUpon>
+    </Content>
+    <Content Include="css\11.jpg" />
+    <Content Include="css\22.jpg" />
+    <Content Include="css\33.jpg" />
+    <Content Include="css\44.jpg" />
+    <Content Include="css\a_21.gif" />
+    <Content Include="css\cucam.jpg" />
+    <Content Include="css\grd_alt.png" />
+    <Content Include="css\grd_head.png" />
+    <Content Include="css\grd_pgr.png" />
+    <Content Include="css\style.css" />
+    <Content Include="css\StyleSheet.css" />
+    <Content Include="images\1fa085d9.gif" />
+    <Content Include="images\4d6fa72e.gif" />
+    <Content Include="images\aachickenfarmer.gif" />
+    <Content Include="images\aawindmill.gif" />
+    <Content Include="images\ad.jpg" />
+    <Content Include="images\barn2.gif" />
+    <Content Include="images\buy.jpg" />
+    <Content Include="images\CoolClips_vc017913.jpg" />
+    <Content Include="images\CoolClips_wb022645.gif" />
+    <Content Include="images\CoolClips_wb023354.gif" />
+    <Content Include="images\CoolClips_wb024056.gif" />
+    <Content Include="images\CoolClips_wb024059.gif" />
+    <Content Include="images\cow_19.gif" />
+    <Content Include="images\cow_30.gif" />
+    <Content Include="images\cow_41.gif" />
+    <Content Include="images\early agriculture.gif" />
+    <Content Include="images\face.jpg" />
+    <Content Include="images\farmer %281%29.gif" />
+    <Content Include="images\farmer on tractor.gif" />
+    <Content Include="images\farmer.gif" />
+    <Content Include="images\farmer_13.gif" />
+    <Content Include="images\farmer_with_green_thumb_lg_nwm.gif" />
+    <Content Include="images\freebies.gif" />
+    <Content Include="images\gmail.jpg" />
+    <Content Include="images\Google.jpg" />
+    <Content Include="images\indian_farmer.gif" />
+    <Content Include="images\jturfish.gif" />
+    <Content Include="images\master.jpg" />
+    <Content Include="images\menschen-0131.gif" />
+    <Content Include="images\RTEmagicC_Traktor_03.gif.gif" />
+    <Content Include="images\straw.jpg" />
+    <Content Include="images\visa.jpg" />
+    <Content Include="images\Week 14 ANIMATION farmer.gif" />
+    <Content Include="images\wf-farmer.gif" />
+    <Content Include="images\what-am-i-a-farmer-o.gif" />
+    <Content Include="images\woman_in_farm.gif" />
+    <Content Include="JavaWeb.asmx" />
+    <Content Include="layout2.css" />
+    <Content Include="market\LocalBuyCon.aspx" />
+    <Content Include="market\NationalBuyCon.aspx" />
+    <Content Include="profile\Register.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="homepage\intl_news.aspx" />
+    <Content Include="homepage\local_news.aspx" />
+    <Content Include="homepage\success_story.aspx" />
+    <Content Include="images\00_Home_06.jpg" />
+    <Content Include="images\1page_bg_menu.jpg" />
+    <Content Include="images\1page_img_1.jpg" />
+    <Content Include="images\1page_text_1.gif" />
+    <Content Include="images\1page_text_2.gif" />
+    <Content Include="images\1page_text_3.gif" />
+    <Content Include="images\1page_title_1.gif" />
+    <Content Include="images\1page_title_2.gif" />
+    <Content Include="images\1page_title_3.gif" />
+    <Content Include="images\1_border_bot.gif" />
+    <Content Include="images\1_border_left.gif" />
+    <Content Include="images\1_border_right.gif" />
+    <Content Include="images\1_border_top.gif" />
+    <Content Include="images\1_button_border_left.gif" />
+    <Content Include="images\1_corner_bot_left.gif" />
+    <Content Include="images\1_corner_bot_right.gif" />
+    <Content Include="images\1_corner_top_left.gif" />
+    <Content Include="images\1_corner_top_right.gif" />
+    <Content Include="images\2page_bg_menu.gif" />
+    <Content Include="images\2page_img_1.jpg" />
+    <Content Include="images\2page_img_2.jpg" />
+    <Content Include="images\2page_img_3.jpg" />
+    <Content Include="images\2page_title_1.gif" />
+    <Content Include="images\2page_title_2.gif" />
+    <Content Include="images\2page_title_3.gif" />
+    <Content Include="images\2_border_top.gif" />
+    <Content Include="images\2_button_border_left.gif" />
+    <Content Include="images\2_corner_bot_left.gif" />
+    <Content Include="images\2_corner_bot_right.gif" />
+    <Content Include="images\2_corner_top_left.gif" />
+    <Content Include="images\2_corner_top_right.gif" />
+    <Content Include="images\3page_bg_menu.gif" />
+    <Content Include="images\3page_img_1.jpg" />
+    <Content Include="images\3page_img_2.jpg" />
+    <Content Include="images\3page_title_1.gif" />
+    <Content Include="images\3page_title_2.gif" />
+    <Content Include="images\3page_title_3.gif" />
+    <Content Include="images\3_border_top.gif" />
+    <Content Include="images\3_button_border_left.gif" />
+    <Content Include="images\3_corner_top_left.gif" />
+    <Content Include="images\3_corner_top_right.gif" />
+    <Content Include="images\4page_bg_menu.gif" />
+    <Content Include="images\4page_img_1.jpg" />
+    <Content Include="images\4page_title_1.gif" />
+    <Content Include="images\4page_title_2.gif" />
+    <Content Include="images\4page_title_3.gif" />
+    <Content Include="images\4_border_top.gif" />
+    <Content Include="images\4_button_border_left.gif" />
+    <Content Include="images\4_corner_top_left.gif" />
+    <Content Include="images\4_corner_top_right.gif" />
+    <Content Include="images\5page_title_1.gif" />
+    <Content Include="images\5page_title_2.gif" />
+    <Content Include="images\bg_logo.jpg" />
+    <Content Include="images\bg_right_content.gif" />
+    <Content Include="images\button_border_left.gif" />
+    <Content Include="images\content_border_left.gif" />
+    <Content Include="images\content_border_right.gif" />
+    <Content Include="images\content_bot.gif" />
+    <Content Include="images\content_corner_left.gif" />
+    <Content Include="images\content_corner_right.gif" />
+    <Content Include="images\corner_bot_left.gif" />
+    <Content Include="images\corner_bot_right.gif" />
+    <Content Include="images\corner_top_left.gif" />
+    <Content Include="images\corner_top_right.gif" />
+    <Content Include="images\line.gif" />
+    <Content Include="images\link_1.gif" />
+    <Content Include="images\list_marker.gif" />
+    <Content Include="images\menu_bg_right.jpg" />
+    <Content Include="images\navigation_marker_1.gif" />
+    <Content Include="images\navigation_marker_2.gif" />
+    <Content Include="images\navigation_marker_3.gif" />
+    <Content Include="images\navigation_marker_4.gif" />
+    <Content Include="images\spacer.gif" />
+    <Content Include="images\tail_site.gif" />
+    <Content Include="layout.css" />
+    <Content Include="market\local.aspx" />
+    <Content Include="market\national.aspx" />
+    <Content Include="profile\TermsCondition.aspx" />
+    <Content Include="src\page1.aspx" />
+    <Content Include="src\page2.aspx" />
+    <Content Include="src\page3.aspx" />
+    <Content Include="profile\farmer.aspx" />
+    <Content Include="profile\merchant.aspx" />
+    <Content Include="style.css" />
+    <Content Include="style2.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="market\XMLFile1.xml" />
+    <Content Include="XMLFile2.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\TextChange.aspx.cs">
+      <DependentUpon>TextChange.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\TextChange.aspx.designer.cs">
+      <DependentUpon>TextChange.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DataHandle.cs" />
+    <Compile Include="JavaWeb.asmx.cs">
+      <DependentUpon>JavaWeb.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="market\LocalBuyCon.aspx.cs">
+      <DependentUpon>LocalBuyCon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="market\LocalBuyCon.aspx.designer.cs">
+      <DependentUpon>LocalBuyCon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="market\NationalBuyCon.aspx.cs">
+      <DependentUpon>NationalBuyCon.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="market\NationalBuyCon.aspx.designer.cs">
+      <DependentUpon>NationalBuyCon.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="profile\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="profile\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="homepage\intl_news.aspx.cs">
+      <DependentUpon>intl_news.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="homepage\intl_news.aspx.designer.cs">
+      <DependentUpon>intl_news.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="homepage\local_news.aspx.cs">
+      <DependentUpon>local_news.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="homepage\local_news.aspx.designer.cs">
+      <DependentUpon>local_news.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="homepage\success_story.aspx.cs">
+      <DependentUpon>success_story.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="homepage\success_story.aspx.designer.cs">
+      <DependentUpon>success_story.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="market\local.aspx.cs">
+      <DependentUpon>local.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="market\local.aspx.designer.cs">
+      <DependentUpon>local.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="market\national.aspx.cs">
+      <DependentUpon>national.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="market\national.aspx.designer.cs">
+      <DependentUpon>national.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="profile\TermsCondition.aspx.cs">
+      <DependentUpon>TermsCondition.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="profile\TermsCondition.aspx.designer.cs">
+      <DependentUpon>TermsCondition.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="site2.Master.cs">
+      <DependentUpon>site2.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="site2.Master.designer.cs">
+      <DependentUpon>site2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="src\page1.aspx.cs">
+      <DependentUpon>page1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\page1.aspx.designer.cs">
+      <DependentUpon>page1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\page2.aspx.cs">
+      <DependentUpon>page2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\page2.aspx.designer.cs">
+      <DependentUpon>page2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\page3.aspx.cs">
+      <DependentUpon>page3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\page3.aspx.designer.cs">
+      <DependentUpon>page3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="profile\farmer.aspx.cs">
+      <DependentUpon>farmer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="profile\farmer.aspx.designer.cs">
+      <DependentUpon>farmer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="profile\merchant.aspx.cs">
+      <DependentUpon>merchant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="profile\merchant.aspx.designer.cs">
+      <DependentUpon>merchant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="site.Master.cs">
+      <DependentUpon>site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="site.Master.designer.cs">
+      <DependentUpon>site.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="site.Master" />
+    <Content Include="site2.Master" />
+    <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\thingsis - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\thingsis - Web Deploy.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:56432/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

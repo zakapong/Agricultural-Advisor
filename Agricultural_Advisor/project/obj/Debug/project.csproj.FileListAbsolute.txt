@@ -1,0 +1,110 @@
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project\project\bin\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project\project\bin\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project\project\obj\Debug\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project\project\obj\Debug\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 2\project\project\bin\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 2\project\project\bin\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 2\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 2\project\project\obj\Debug\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 2\project\project\obj\Debug\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 3\project\project\bin\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 3\project\project\bin\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 3\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 3\project\project\obj\Debug\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 3\project\project\obj\Debug\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 4\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 4\project\project\obj\Debug\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 4\project\project\obj\Debug\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 4\project\project\bin\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project 4\project\project\bin\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project5\project\project\bin\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project5\project\project\bin\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project5\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project5\project\project\obj\Debug\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project5\project\project\obj\Debug\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project5\project\project\bin\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project5\project\project\bin\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project5\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project5\project\project\obj\Debug\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project5\project\project\obj\Debug\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6\project\project\bin\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6\project\project\bin\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6\project\project\obj\Debug\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6\project\project\bin\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6\project\project\bin\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6\project\project\obj\Debug\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack\project\project\obj\Debug\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack\project\project\bin\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack\project\project\bin\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack1\project\project\bin\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack1\project\project\bin\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack1\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack1\project\project\obj\Debug\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\work station\project6_zack1\project\project\obj\Debug\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6_zack1\project\project\bin\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6_zack1\project\project\bin\project.pdb
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6_zack1\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6_zack1\project\project\obj\Debug\project.dll
+C:\Users\bijoy\Dropbox\zak and bijoy\work station\project6_zack1\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Desktop\project6_zack1\project\project\bin\project.dll
+C:\Users\Zack\Desktop\project6_zack1\project\project\bin\project.pdb
+C:\Users\Zack\Desktop\project6_zack1\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\project6_zack1\project\project\obj\Debug\project.dll
+C:\Users\Zack\Desktop\project6_zack1\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Desktop\project6_zack1\project6_zack1\project\project\bin\project.dll
+C:\Users\Zack\Desktop\project6_zack1\project6_zack1\project\project\bin\project.pdb
+C:\Users\Zack\Desktop\project6_zack1\project6_zack1\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\project6_zack1\project6_zack1\project\project\obj\Debug\project.dll
+C:\Users\Zack\Desktop\project6_zack1\project6_zack1\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\project.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\project.pdb
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\obj\Debug\project.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\bin\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\bin\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\obj\Debug\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\project\project\obj\Debug\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\bin\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\bin\project.pdb
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\obj\Debug\project.dll
+C:\Users\Zack\Dropbox\zak and bijoy\docs\final_version_1\project6_zack1\project6_zack1\Agricultural_Advisor\project\obj\Debug\project.pdb
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\bin\project.dll
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\bin\project.pdb
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\obj\Debug\project.dll
+C:\Users\Zack\Desktop\Agricultural_Advisor\project\obj\Debug\project.pdb
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\bin\project.dll
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\bin\project.pdb
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\obj\Debug\project.dll
+C:\Users\Zack\Dropbox\Project\agricultural_Trading_Advisor\Agricultural_Advisor\project\obj\Debug\project.pdb

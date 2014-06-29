@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+
+<Advertisements>
+  <Ad>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <ImageUrl>css/11.jpg</ImageUrl>
+
+  </Ad>
+
+  <Ad>
+    <NavigateUrl>http://www.okstate.edu/OSU_Ag/agedcm4h/bobslist.htm</NavigateUrl>
+    <ImageUrl>css/22.jpg</ImageUrl>
+
+  </Ad>
+ 
+</Advertisements>

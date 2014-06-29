@@ -1,0 +1,44 @@
+﻿
+.grid-view
+{
+	padding: 0;
+	margin: 0;
+	border: 1px solid #333;
+	font-family: "Verdana, Arial, Helvetica, sans-serif, Trebuchet MS";
+	font-size: 0.9em;
+}
+
+.grid-view tr.header
+{
+	color: white;
+	background-color: #FF5600;
+	height: 25px;
+	vertical-align: middle;
+	text-align: center;
+	font-weight: bold;
+}
+
+.grid-view tr.normal
+{
+	color: black;
+	background-color: #FDC64E;
+	height: 25px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.grid-view tr.alternate
+{
+	color: black;
+	background-color: #b200ff;
+	height: 25px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.grid-view tr.normal:hover, .grid-view tr.alternate:hover
+{
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}

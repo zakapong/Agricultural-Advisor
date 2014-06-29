@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+
+
+  <Ad>
+    <NavigateUrl>http://www.slu.se/en/</NavigateUrl>
+    <ImageUrl>css/44.jpg</ImageUrl>
+
+  </Ad>
+  <Ad>
+    <NavigateUrl>http://www.jordbruksverket.se/swedishboardofagriculture.4.6621c2fb1231eb917e680002462.html</NavigateUrl>
+    <ImageUrl>css/33.jpg</ImageUrl>
+
+  </Ad>
+</Advertisements>

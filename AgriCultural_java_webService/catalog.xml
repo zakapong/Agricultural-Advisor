@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:56432/JavaWeb.asmx?WSDL" uri="xml-resources/web-service-references/JavaWeb/wsdl/localhost_56432/JavaWeb.asmx.wsdl"/>
+    <system systemId="http://agricultural-cloud.cloudapp.net/JavaWeb.asmx?WSDL" uri="xml-resources/web-service-references/JavaWeb/wsdl/agricultural-cloud.cloudapp.net/JavaWeb.asmx.wsdl"/>
+    <system systemId="http://agricultural-advisor.cloudapp.net/JavaWeb.asmx?WSDL" uri="xml-resources/web-service-references/JavaWeb/wsdl/agricultural-advisor.cloudapp.net/JavaWeb.asmx.wsdl"/>
+</catalog>

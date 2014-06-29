@@ -1,0 +1,154 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="site.master.cs" Inherits="project.site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="layout.css" rel="stylesheet" type="text/css" />
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body id="page1">
+    <form id="form1" runat="server">
+    <div class="site_center">
+	<!-- header  -->
+	<div class="bg_logo"><img src="~/images/00_home_06.jpg" id="img1" runat="server" style="width: 440px; height: 94px" /> </div>
+<div class="menu">
+		<div class="bg_menu">
+			<ul class="menu_list">
+				<li><a id="A1" href="~/default.aspx?menu=home"  runat="server">Home</a></li>
+				<li><a id="A2" href="~/src/page1.aspx?menu=profile" runat="server">Profile</a></li>
+				<li><a id="A3" href="~/src/page2.aspx?menu=search" runat="server">Statistics</a></li>
+				<li><a id="A4" href="~/src/page3.aspx?menu=market" runat="server">Market</a></li>
+				
+			</ul>
+			<ul class="navigation">
+				<li><a href="#" class="bg_none" runat="server" id="sub1"></a></li>
+				<li><a href="#" runat="server" id="sub2"></a></li>
+				<li><a href="#" runat="server" id="sub3"></a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- content -->
+	<div class="content">
+		<div class="content_border_left">
+			<div class="content_bot">
+				<div class="content_corner_left">
+					<div class="content_corner_right">
+						<div class="bg_right_content">
+							<div class="indent_content">
+								<div class="col_1">
+									<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                    </asp:ContentPlaceHolder>
+								</div>
+								<!--right_col-->
+								<div class="col_3 ind_top_col">
+                                	<div class="extra_left_1">
+                                    	
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                                            <p>
+                                                <br />
+                                                <asp:AdRotator ID="AdRotator1" runat="server" DataSourceID="XmlDataSource1" />
+                                                <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/XMLFile2.xml"></asp:XmlDataSource>
+                                            </p>
+                                            <p>
+                                                &nbsp;</p>
+                                            <p>
+                                                &nbsp;</p>
+                                            <p>
+                                                &nbsp;</p>
+                                            <p>
+                                                &nbsp;</p>
+                                            <p>
+                                                &nbsp;</p>
+                                            <p>
+                                                &nbsp;</p>
+                                            <p>
+                                                <asp:AdRotator ID="AdRotator2" runat="server" DataSourceID="XmlDataSource2" />
+                                                <asp:XmlDataSource ID="XmlDataSource2" runat="server" DataFile="~/market/XMLFile1.xml"></asp:XmlDataSource>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                            <p>
+                                            </p>
+                                        </asp:ContentPlaceHolder>
+                                      
+                                    </div>
+                                </div>
+                                <div class="footer">
+
+                                &nbsp;&nbsp;&nbsp;
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<br />
+                                    <br />
+                                    <div style="border:outset 3px green; margin-right:58px ; margin-left: 28px; margin-bottom: -29px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Names="Bookman Old Style" Font-Size="Large" ForeColor="#333333" Text="       Copyright @ 2013: Monir &amp; Zack Enterprize       "></asp:Label>
+                                        &nbsp;&nbsp;<br />
+                                        <br /><div style="margin-top: -16px; border:thin; background-color: ButtonHighlight">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Address: Norra Stationsvagen 10C, Hassleholm, Sweden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tel: 0451-2312453546&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:ceo@mzent.com">ceo@mzent.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Editor: Monir & Zack</div>
+                                    </div>
+                                        </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    </form>
+</body>
+</html>

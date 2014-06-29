@@ -1,0 +1,9 @@
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\project.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\project.pdb
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\obj\Release\project.dll
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\obj\Release\project.pdb
+C:\Users\Zack\Desktop\final_version_1\project6_zack1\project6_zack1\project\project\obj\Release\project.csprojResolveAssemblyReference.cache

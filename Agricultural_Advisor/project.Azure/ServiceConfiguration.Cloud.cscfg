@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="project.Azure" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="3" osVersion="*" schemaVersion="2012-10.1.8">
+  <Role name="project">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=zackstorage;AccountKey=mVPgtLSY36pBg5Yq4eYUIv2jnyFY20sXzILUj7ryMSq0lAfHFDzFwNOetmle/il1jCoLzGq/mQZUuI1aXqLUXw==" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

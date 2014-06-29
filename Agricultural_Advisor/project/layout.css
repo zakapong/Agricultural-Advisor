@@ -1,0 +1,40 @@
+.site_center {margin:0 auto; width:936px; text-align:left;}
+
+
+.col_1, .col_2, .col_3, .col_box_1, .col_box_2{ float:left;}
+
+/*=========================*/
+/*masterpage layout*/
+
+#page1 .content .col_1{width:655px;
+    height: 876px;
+    margin-right: 8px;
+}
+#page1 .content .col_2{width:264px; margin-left:30px}
+#page1 .content .col_3{width:187px; 
+margin-left:33px;
+    height: 533px;
+}
+
+
+
+#page2 .content .col_1{width:605px;}
+#page2 .content .col_2{width:232px; margin-left:42px}
+
+
+
+#page3 .content .col_1{width:605px;}
+#page3 .content .col_2{width:232px; margin-left:42px}
+/*=========================*/
+
+
+#page4 .content .col_1{width:605px;}
+#page4 .content .col_2{width:232px; margin-left:42px}
+/*=========================*/
+
+
+#page5 .content .col_1{width:605px;}
+#page5 .content .col_2{width:232px; margin-left:42px}
+/*=========================*/
+
+
